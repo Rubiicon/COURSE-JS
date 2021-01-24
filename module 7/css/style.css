@@ -1,24 +1,24 @@
-
-.gallery{
+.gallery {
   display: flex;
 }
-.gallery li{
+
+.gallery li {
   list-style: none;
   justify-content: space-between;
   padding-left: 3%;
   width: 100%;
 
 }
-.gallery li:last-child{
+
+.gallery li:last-child {
   padding-right: 3%;
 }
 
-.gallery img{
+.gallery img {
   max-width: 100%;
   height: 350px;
   display: block;
 }
-
 
 #validation-input {
   border: 3px solid #bdbdbd;
@@ -32,6 +32,6 @@
   border-color: #f44336;
 }
 
-#text{
+#text {
   font-size: 50px;
 }
